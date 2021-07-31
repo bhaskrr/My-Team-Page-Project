@@ -25,9 +25,6 @@ figcaption {
 .figure-with-top-margin {
     margin-top: 8rem;
 }
-.img-section {
-    width: 30%;
-}
 img {
     width: 100%;
     height: auto;
