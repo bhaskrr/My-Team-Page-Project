@@ -15,10 +15,10 @@ header > section > h1 {
     display: flex;
 }
 figure {
-    align-items: flex-start;
-    flex-direction: row;
     display: flex;
-}
+    flex-direction: row;
+    align-items: flex-start;
+}    
 figcaption {
     font-weight: bold;
 }
