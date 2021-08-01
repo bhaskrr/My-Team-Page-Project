@@ -11,8 +11,8 @@ header > section > h1 {
     font-family: 'PT serif', serif;
     font-size: 2rem;
 }
-.who_we_are p {
-    width: 60%;
+.header > section > p {
+    width: 50%;
 }
 .first-section , .second-section {
     display: flex;
