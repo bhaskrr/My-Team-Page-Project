@@ -9,10 +9,10 @@ header {
 }
 header > section > h1 {
     font-family: 'PT serif', serif;
-    font-size: 2rem;
+    font-size: 3rem;
 }
 .header > section > p {
-    width: 50%;
+    width: 40%;
 }
 .first-section , .second-section {
     display: flex;
@@ -44,6 +44,9 @@ img {
     }
     header > section > h1 {
         font-size: 2rem;
+    }
+    header > section > p {
+        width: 60%;
     }
     .first-section, .second-section {
         flex-wrap: wrap;
