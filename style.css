@@ -36,9 +36,6 @@ img {
 /* Mobile Responsive*/
 
 @media screen and (max-width:768px) {
-    body {
-        font-size: 2rem;
-    }
     header {
         display: block;
     }
